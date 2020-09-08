@@ -1,0 +1,29 @@
+.search {
+    text-align: right;
+}
+
+.form {
+    /* border: 3px solid green; */
+    text-align: center;
+    position: relative;
+    margin: 200px auto;
+
+}
+.round {
+    border-radius: 10px;
+    margin: 5px 5px ;
+}
+
+.adbtn {
+    background-color: blue;
+    color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    padding: 2px 2px;
+    margin: 20px 220px ;
+}
+
+.test {
+    display: inline-block;
+    width: 200px;
+}
